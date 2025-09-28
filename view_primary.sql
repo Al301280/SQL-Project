@@ -1,0 +1,1 @@
+CREATE OR REPLACE VIEW v_alzbeta_kratinova_project_SQL_primary_final
