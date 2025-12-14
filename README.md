@@ -142,4 +142,5 @@ Na úrovni odvětví: Při porovnání meziročních růstů HDP a průměrných
 Většina odvětví však sleduje podobný trend – v letech s vyšším růstem HDP dochází zpravidla také k růstu mezd, což potvrzuje pozitivní korelaci mezi výkonem ekonomiky a mzdovou úrovní.
 Ceny potravin zůstávají relativně nezávislé, protože se odvíjejí spíše od inflačních vlivů než od HDP.
 
- 
+![Vývoj_cen_mezd_HDP](images/Vývoj_cen_mezd_HDP.png)
+
