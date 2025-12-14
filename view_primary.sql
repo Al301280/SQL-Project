@@ -1,1 +1,0 @@
-špatný soubor
